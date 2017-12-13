@@ -32,7 +32,7 @@
   "dependencies": {
     "builtin-modules": "^2.0.0",
     "is-module": "^1.0.0",
-    "resolve": "^1.1.6"
+    "resolve": "kellyselden/resolve#package"
   },
   "repository": "rollup/rollup-plugin-node-resolve",
   "keywords": [
